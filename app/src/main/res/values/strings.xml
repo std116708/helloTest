@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">helloWorld</string>
-    <string name="hello_konstantinos">Hello Konstantinos!</string>
+    <string name="hello_konstantinos">Κωνσταντίνος Γραμματικάκης!</string>
+    <string name="hello">Greetings!</string>
 </resources>
